@@ -23,14 +23,9 @@
 
 ### Summary: 
 #### Question - Given the circumstances of your results, discuss what you might do to determine if the recommendations you make with any of the above recommendation systems are an improvement to how users currently find articles?
-#### 1. There are very less number of cases we have in the test set (20). This will create issues during cold start cases, so we 
-have to use rank based recommendation. We should increase training data accuracy and decrease testing data accuracy while 
-increasing latent features. 
+#### 1. There are very less number of cases we have in the test set (20). This will create issues during cold start cases, so we have to use rank based recommendation. We should increase training data accuracy and decrease testing data accuracy while increasing latent features. 
 
-#### 2. For the second part we should try A/B testing technique. We might try segregating users in two groups and let them access 
-different version of the site with some recommendation functionality and suggesting them for various articles. After testing 
-this for a while we can compare various metrics like interaction numbers, number of pages visited etc and check if the 
-recommendations are similar or diffierent.  
+#### 2. For the second part we should try A/B testing technique. We might try segregating users in two groups and let them access different version of the site with some recommendation functionality and suggesting them for various articles. After testing this for a while we can compare various metrics like interaction numbers, number of pages visited etc and check if the recommendations are similar or diffierent.  
 
 ### Libraries Used: 
 #### numpy
