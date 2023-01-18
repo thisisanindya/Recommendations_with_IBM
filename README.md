@@ -3,7 +3,6 @@
 ### Project Motivation:
 #### The main idea of this project is to find out if there a way to find out a set of features which can help to predict the price of airbnb homestay. Analysis was done around various features like neighborhod, property type, room type and amenities etc. Later on focus was on a smaller set of features which can help to predict the price.
 
-
 ### File Details:
 #### data/user-item-interactions.csv
 #### data/articles_community.csv
@@ -24,6 +23,11 @@
 #### numpy
 #### pandas
 #### matplotlib.pyplot
-#### sklearn
-#### seaborn
-#### collections
+#### project_tests
+#### pickle
+#### call from subprocess
+#### itertools
+
+### Acknowledgements
+#### Dataset Credit - https://www.kaggle.com/airbnb/seattle
+#### Others: Thanks to Udacity for excellent course material and also to the mentors for timely help.
