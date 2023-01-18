@@ -5,10 +5,17 @@
 
 
 ### File Details:
-#### user-item-interactions.csv
-#### articles_community.csv
+#### data/user-item-interactions.csv
+#### data/articles_community.csv
 #### Recommendations_with_IBM.ipynb
 #### Recommendations_with_IBM.html
 #### Recommendations_with_IBM.pdf
 #### project_tests.py
 #### README.md
+
+### Methodology Used
+#### Part I  : Exploratory Data Analysis - 
+#### Part II : Rank-Based Recommendations
+#### Part III: User-User Based Collaborative Filtering
+#### Part IV : Matrix Factorization
+#### Part V  : Matrix Factorization - Matrix factorization should be done here to make article recommendations to the users on the IBM Watson Studio platform.
